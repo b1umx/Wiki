@@ -2,7 +2,7 @@
 - #f8e9d6
 - #d33225
 
-## Monocai
+## Monokai
 - #1C1D19
 - #D01B24
 - #A7D32C
