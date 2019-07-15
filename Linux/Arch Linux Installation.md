@@ -267,7 +267,7 @@ TERMINAL=terminator
 ### Конфигурация i3wm
 - Установка утилит для корректной работы i3wm с моим конфигурационным файлом
 `sudo pacman -S i3blocks rofi pulseaudio pulsemixer pavucontrol compton dunst udiskie nitrogen guake terminator`
-`sudo pacman -S firefox geoip keepass`
+`sudo pacman -S firefox geoip keepass gnome-screenshot powerline-fonts`
 `yay -S kbdd-git discord vk-messenger telegram-desktop-bin`
 - Чтобы PulseAudio заработал сразу, выполняем
 `pulseaudio --daemonize`
