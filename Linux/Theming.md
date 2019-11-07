@@ -7,14 +7,14 @@
 `sudo pacman -S materia-gtk-theme`
 
 Настройка конфигов
-_/usr/share/gtk-2.0/gtkrc_
+_~/.config/gtkrc-2.0_ или _/usr/share/gtk-2.0/gtkrc_ (перезатирается обновлениями)
 ```
 gtk-icon-theme-name = "Papirus"
 gtk-theme-name = "Materia-dark"
 gtk-font-name = "Noto Sans 11"
 ```
 
-_/usr/share/gtk-3.0/settings.ini_
+_~/.config/gtk-3.0/settings.ini_ или _/usr/share/gtk-3.0/settings.ini_ (перезатирается обновлениями)
 ```
 [Settings]
 gtk-icon-theme-name = Papirus
